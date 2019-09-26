@@ -9,4 +9,8 @@ describe Shop do
     shop = Shop.new
     expect(shop.checkout('AA')).to eq 100
   end
+  it "returns 115 when given ('ABCD')" do
+    shop = Shop.new
+    expect(shop.checkout('ABCD')).to eq 115
+  end
 end
