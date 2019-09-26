@@ -3,6 +3,10 @@ class Shop
   end
 
   def checkout(items)
-    50
+    final_price = 0
+    items.each_char do |letter|
+      final_price += 50
+    end
+    final_price
   end
 end
