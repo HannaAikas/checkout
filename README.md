@@ -1,5 +1,13 @@
 # checkout
 
+# purpose
+- Timed exercise (30 minutes max) where I completed a coding challenge whlst recording my screen, and once done, sent the video to a coach to receive feedback.
+- Overall purpose was to demonstrate good TDD process and ability to work under time pressure. 
+- I chose to complete the exercise using Ruby.
+
+# how the app works
+- See original instructions received: https://github.com/makersacademy/skills-workshops/tree/master/process_review/exercises/checkout
+
 # planning
 ## initial tests
 input => output
